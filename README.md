@@ -1,8 +1,8 @@
 # UD32
-https://github.com/fcarri/UD32/tree/main/ex1
-https://github.com/fcarri/UD32/tree/main/ex2
-https://github.com/fcarri/UD32/tree/main/ex3
-https://github.com/fcarri/UD32/tree/main/ex4
-https://github.com/fcarri/UD32/tree/main/ex5
-https://github.com/fcarri/UD32/tree/main/ex6
-https://github.com/fcarri/UD32/tree/main/ex8
+https://fcarri.github.io/UD32/ex1/
+https://fcarri.github.io/UD32/ex2/
+https://fcarri.github.io/UD32/ex3/
+https://fcarri.github.io/UD32/ex4/
+https://fcarri.github.io/UD32/ex5/
+https://fcarri.github.io/UD32/ex6/
+https://fcarri.github.io/UD32/ex8/
